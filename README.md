@@ -1,4 +1,4 @@
 # verilog
-In this repository, all of my "Verilog" based codes and projects are uploaded.
+In this repository, all of my "verilog" based codes and projects are uploaded.
 
 
